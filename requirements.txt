@@ -1,0 +1,4 @@
+fastapi==0.110.0
+uvicorn==0.29.0
+openai-whisper==20231117
+yt-dlp==2024.4.9
